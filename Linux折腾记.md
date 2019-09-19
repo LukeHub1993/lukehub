@@ -21,14 +21,8 @@
 
 <center><img src="http://img.mp.itc.cn/q_70,c_zoom,w_640/upload/20170218/ec6f9e03c4ea4043bb6762d33bd4f3d5_th.jpeg" alt="img" style="zoom: 50%;" />    <img src="http://b-ssl.duitang.com/uploads/item/201704/04/20170404075951_aLMR3.thumb.700_0.jpeg" alt="img" style="zoom: 33%;" /></center>
 ​	此外，linux开源的特点，里面有丰富的免费软件，相比之下，win平台很多软件都是付费的，虽然在国内很容易找到各种破解版……
-
-
 ​	我最早是从本科时开始折腾Ubuntu的，当时刚上大学，只有一台很小的上网本，运行win7非常卡顿，当时不知在哪儿看到linux占用资源少，也美观，就在那台上网本上试着安了一个，但实际用起来非常不便。后来也就没用过了。直到去年又买了一台电脑，就想着再折腾一次。虽然目前来说也逐渐开始有一些经验了，但其实仍然是个linux小白，我仍然不会编程😩。
-
-
 ​	为什么是Ubuntu，相对来说，ubuntu更适合小白，安装起来也更容易，在国内linux各种发行版中，ubuntu比例更高一些，因此后面遇到各种问题，查找起来相对也更容易。
-
-
 ​	下面是我电脑调教过后的最终成果，个人觉得还是很漂亮的😂，当然，这些主题都是可以更换的，可以按照自己的喜好更换。
 <center><img src="https://github.com/LukeHub1993/lukehub/blob/master/images/2019-09-14%2018-56-00%20的屏幕截图.png" alt="img" style="zoom: 50%;" />  <center><img src="https://github.com/LukeHub1993/lukehub/blob/master/images/2019-09-14%2018-56-07%20的屏幕截图.png" alt="img" style="zoom: 50%;" /> 
 
