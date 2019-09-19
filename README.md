@@ -1,5 +1,7 @@
 # Instruction for Installing Ubuntu 18.04
 
+I'm still working on it, so it is not the final edition. However, I have finished the installing part, so you can still follow this guide and install Ubuntu in your computer. The Pdf version is highly recommended,since I haven't figured out how does markdown work in Github yet. I'm not a programmer,so if you find any mistake,please tell me and I will correct it.
+
 
 # Linux折腾记
 ## ⼀. 为什么⽤Ubuntu
@@ -36,7 +38,7 @@
 3.1.1 第⼀次更新
 
 
-### 3.2 界⾯美化
+### 3.2 界面美化
 ### 3.3 软件安装
 3.3.1 常⽤软件
 
