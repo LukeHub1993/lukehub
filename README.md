@@ -35,17 +35,39 @@ I'm still working on it, so it is not the final edition. However, I have finishe
 
 ## 三. ubuntu系统设置、美化及软件安装
 ### 3.1 系统设置
+
+
 3.1.1 第⼀次更新
+
+
 3.1.2 双系统时区
+
+
 3.1.3 显卡驱动
+
+
 3.1.4 笔记本安装TLP
+
+
 3.1.5 输入法
+
+
 ### 3.2 界面美化
 3.2. 1 Gnome-tweak-tool
-3.2. 2 字体
+
+
+3.2. 2 字
+
+
 3.2. 3 Grub 启动项美化
+
+
 3.2. 4 登陆界面美化
+
+
 3.2. 5 Dock栏
+
+
 3.2. 6 Gnome扩展
 
 ### 3.3 软件安装
