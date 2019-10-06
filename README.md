@@ -49,20 +49,50 @@ I'm still working on it, so it is not the final edition. However, I have finishe
 3.2. 6 Gnome扩展
 
 ### 3.3 软件安装
+
+
 3.3.1 常⽤软件
+
+
 3.3.1.1 Chrome
+
+
 3.3.1.2 WPS
+
+
 3.3.1.3 FoxitReader
+
+
 3.3.1.4 Libreoffice
+
+
 3.3.1.5 Zotero
+
+
 3.3.1.6 Typora
+
+
 3.3.1.7 TeXstudio
+
+
 3.3.1.8 Calibre
+
+
 3.3.1.9 网易云音乐
+
+
 3.3.1.10 百度云网盘
+
+
 3.3.1.11 Deepin-wine 项目
+
+
 3.3.1.12 Audacity
+
+
 3.3.1.13 GIMP
+
+
 3.3.1.14 深度截图
 
 
