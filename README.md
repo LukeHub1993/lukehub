@@ -1,6 +1,7 @@
 # Instruction for Installing Ubuntu 18.04
 
-I'm still working on it, so it is not the final edition. However, I have finished the installing part, so you can still follow this guide and install Ubuntu in your computer. The Pdf version is highly recommended,since I haven't figured out how does markdown work in Github yet. I'm not a programmer,so if you find any mistake,please tell me and I will correct it.
+
+✿✿ヽ(°▽°)ノ✿I eventually finished ALL the parts of this guide, including installing, setting and commonly used softwares, but I'll probably make some adjustments later，so it is not the final edition. However,  you can still follow this guide and install Ubuntu and many softwares in your computer. The Pdf version is highly recommended, since I haven't figured out how does markdown work in Github yet. I'm not a programmer,so if you find any mistake,please tell me and I will correct it.
 
 
 # Linux折腾记
@@ -56,7 +57,7 @@ I'm still working on it, so it is not the final edition. However, I have finishe
 3.2. 1 Gnome-tweak-tool
 
 
-3.2. 2 字
+3.2. 2 字体
 
 
 3.2. 3 Grub 启动项美化
